@@ -1,0 +1,31 @@
+html{
+    background-color: #F1EFEC;
+}
+.content{
+    display: block;
+    height: 300px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+body > h1{
+    font-size: 5rem;
+}
+.image{
+    height: 200px;
+    
+}
+.right{
+    float: right;
+    margin-left: 5px;
+}
+.left{
+    float: left;
+    margin-right: 5px;
+}
+.heading{
+    font-family: "Boldonse", system-ui;
+}
+.content p{
+    font-size: x-large;
+    text-align: justify;
+}
